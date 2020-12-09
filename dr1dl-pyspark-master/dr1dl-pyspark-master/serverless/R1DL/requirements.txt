@@ -1,0 +1,5 @@
+nilearn
+google-cloud-storage==1.16.1
+sklearn
+tensorflow
+numpy==1.18.5
